@@ -158,7 +158,7 @@ h2 {
     background-origin: content-box;
     background-size: 50%;
     background-position: left center;
-    background-image: url(https://dqufpr.github.io/servicos/img/logo-site-hv.svg);
+    background-image: url(../img/logo-site-hv.svg);
 }
 
 #cabecalho #titulo {
@@ -277,7 +277,7 @@ ul li.itemmenubar a:hover {
         background-origin: content-box;
         background-position: center;
         background-size: 60%;
-        background-image: url(https://dqufpr.github.io/servicos/img/logo-site-mobile.svg);
+        background-image: url(../img/logo-site-mobile.svg);
     }
 
     #contentsite {
@@ -341,7 +341,6 @@ ul li.itemmenubar a:hover {
     }
 
 }
-
 
 /*--navegacao mapas --*/
 #nav {
@@ -421,7 +420,6 @@ ul li.itemmenubar a:hover {
         margin: 0;
     }
 }
-
 
 /* formularios */
 #formulario {
@@ -505,7 +503,7 @@ ul li.itemmenubar a:hover {
     background-repeat: no-repeat;
     border-radius: 8px 8px 0px 0px;
     background-position: 50% 50%;
-    background-image: url(https://dqufpr.github.io/servicos/img/capa-home.svg);
+    background-image: url(../img/capa-home.svg);
 }
 
 #model #destaque.mapa {
@@ -592,7 +590,6 @@ ul li.itemmenubar a:hover {
         margin: 20px auto;
     }
 }
-
 
 /*destaque home*/
 #caixadestaque {
