@@ -277,7 +277,7 @@ ul li.itemmenubar a:hover {
         background-origin: content-box;
         background-position: center;
         background-size: 60%;
-        background-image: url(/servicos/img/logo-site-mobile.svg);
+        background-image: url(https://dqufpr.github.io/servicos/img/logo-site-mobile.svg);
     }
 
     #contentsite {
