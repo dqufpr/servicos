@@ -25,7 +25,6 @@ a:hover {
     margin: 0 auto;
     width: 100%;
     border: none;
-    background: #fff;
     padding: 0;
     display: block;
 }
@@ -39,6 +38,7 @@ a:hover {
     height: auto;
     margin: 0 auto;
     box-sizing: border-box;
+    background: #fff;
 }
 
 #contentsite {
@@ -80,7 +80,6 @@ a:hover {
     width: 100%;
     min-height: 500px;
     height: auto;
-    background: #fff;
     margin: 0 auto;
 }
 
